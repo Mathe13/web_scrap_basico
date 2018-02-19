@@ -1,3 +1,5 @@
+# codigo simple feito para pesquisar no google e abrir os n primeiro resultados
+
 import webbrowser
 import bs4
 import requests

@@ -1,3 +1,4 @@
+#baixa tds os quadrinhos do site xkcd
 import requests
 import bs4
 import os

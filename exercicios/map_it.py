@@ -1,4 +1,4 @@
-#https://www.google.com.br/maps/place/R.+Cenair+Maic%C3%A1+-+Jardim+dos+Lagos,+Gua%C3%ADba+-+RS,+92500-000/
+#abre o google maps no endereço digitado pelo usuario
 import webbrowser
 import sys
 base_url='https://www.google.com.br/maps/place/'

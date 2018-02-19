@@ -1,3 +1,4 @@
+#exemplo basico de BeautifulSoup
 import requests
 import bs4
 res = requests.get('http://nostarch.com')
